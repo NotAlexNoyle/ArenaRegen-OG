@@ -1,6 +1,8 @@
-# Template-OG
+# ArenaRegen-OG
 
-TrueOG Network's standard Java plugin template.
+A free fork of [DE-ArenaRegen](https://github.com/Realizedd/DE-ArenaRegen/) updated for 1.19.4 by [TrueOG Network](https://true-og.net/).
+
+Will NOT work correctly on any other versions.
 
 Gradle Version: 8.8
 
@@ -10,4 +12,4 @@ Minecraft API: 1.19
 
 API Jar: 1.19.4 Purpur
 
-Template-OG is public domain software released under the terms of [The Unlicense](https://github.com/true-og/Template-OG/blob/main/LICENSE).
+ArenaRegen-OG is licensed under GPLv3 (see LICENSE.md).
